@@ -1,6 +1,5 @@
 ### Hola eu sou o Bruno 👋
 
-Here are some ideas to get you started:
 
 - 🔭 Hoje eu trabalho como Desenvolvedor de Sistemas Web
 - 🌱 Estou estudando Quasar/framework
